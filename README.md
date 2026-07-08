@@ -1,3 +1,24 @@
+<p align="center">
+  <img src="assets/logo.png" alt="EduNova Logo" width="180">
+</p>
+
+<h1 align="center">EduNova</h1>
+
+<p align="center">
+Modern • Open Source • School Management System
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3.2+-092E20?style=for-the-badge&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
+
+> **A modern, open-source School Management System built with Django.**
 # 🎓 EduNova
 
 > A modern, open-source School Management System built with Django.
@@ -65,7 +86,7 @@ EduNova/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/EduNova.git
+git clone https://github.com/pourbabaeiamirali-jpg/EduNova.git
 
 cd EduNova
 ```

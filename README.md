@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="EduNova Logo" width="180">
+  <img src="https://github.com/pourbabaeiamirali-jpg/EduNova/blob/main/static/logo.png" alt="EduNova Logo" width="180">
 </p>
 
 <h1 align="center">EduNova</h1>
